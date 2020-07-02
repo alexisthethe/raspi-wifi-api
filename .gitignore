@@ -1,0 +1,8 @@
+*.swp
+*.pyc
+*.db
+__pycache__
+env/
+.cache/
+.coverage
+
